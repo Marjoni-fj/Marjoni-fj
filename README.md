@@ -15,8 +15,8 @@
 ### Stats
 <!-- Keep the cards, move them lower -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Marjoni-fj&layout=compact&theme=radical&hide=other" alt="WakaTime stats" height="400">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marjoni-fj&show_icons=true&theme=radical" alt="GitHub stats" height="130">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Marjonifj&layout=compact&theme=radical&hide=other" alt="WakaTime stats" height="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=Marjonifj&show_icons=true&theme=radical" alt="GitHub stats" height="130">
 </p>
 
 
