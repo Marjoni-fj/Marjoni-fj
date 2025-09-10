@@ -1,8 +1,11 @@
 <h3 align="center">Fredrik Jonathan Marjoni</h3>
 
 ### About me
-- 💻 1st-year bachelor of engineering computer science @NTNU
-- In my freetime i go gym, do Taekwon-do, and learning new languages
+- 💻 1st-year bachelor of engineering computer science @NTNU7
+- Academically do programming and university level math
+- In my freetime I go gym, do Taekwon-do, and learning new languages
+- Love to travel when I get the chance
+- Young, wild and free:)
 
 ### Tech stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
