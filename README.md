@@ -1,7 +1,7 @@
 <h3 align="center">Fredrik Jonathan Marjoni</h3>
 
 ### About me
-- 💻 1st-year bachelor of engineering computer science @NTNU7
+- 💻 1st-year bachelor of engineering computer science @NTNU
 - Academically do programming and university level math
 - In my freetime I go gym, do Taekwon-do, and learning new languages
 - Love to travel when I get the chance
