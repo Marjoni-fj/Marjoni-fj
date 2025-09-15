@@ -5,7 +5,7 @@
 - Academically do programming and university level math
 - Eager to gain knowledge, for instance in new skills and or languages
   * Generally like the search for abilities that makes me a better version of myself 
-- In my freetime I do Taekwon-do, go gym, and hanging out with people I care much about
+- In my freetime I do Taekwon-do, go gym, and hanging out with people I hold dear to me
 - Love to travel when I get the chance
 - Young, wild and free:)
 
