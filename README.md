@@ -1,4 +1,10 @@
 <h3 align="center">Fredrik Jonathan Marjoni</h3>
+<h4 align="center">
+  <a href="https://marjoni-fj.github.io/E-portofolioV1/">My website</a>
+</h4>
+
+
+
 
 ### About me
 - 💻 1st-year bachelor of engineering computer science @NTNU
